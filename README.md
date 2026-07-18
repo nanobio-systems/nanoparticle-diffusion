@@ -212,7 +212,7 @@ Possible future improvements include:
 
 Primary inspirations:
 
-* Yang et al. (2025) *[Pore-scale analysis of nanoparticle diffusion in brain tumours]
+* Yang et al. (2025) *[Pore-scale analysis of nanoparticle diffusion in brain tumours]*
 * International Journal of Heat and Mass Transfer (2025).
 
 This project implements a simplified educational reproduction of the computational concepts presented in the paper, including Brownian motion simulation, diffusion modelling, and analysis of nanoparticle transport behaviour.
