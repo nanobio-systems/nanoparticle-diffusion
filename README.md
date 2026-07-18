@@ -4,9 +4,7 @@ A Python-based computational research project investigating Brownian motion and 
 
 This repository was developed as a first scientific computing project while learning Python for computational biology and nanobiotechnology. It demonstrates how theoretical diffusion models can be implemented, analysed and compared with simulation results using reusable Python modules and Jupyter notebooks.
 
-The project is inspired by the methods presented in the following publication:
-
-> *Simulation study of nanoparticle diffusion...* (2025), *International Journal of Heat and Mass Transfer*.
+The project is inspired by the methods presented in the publication by Yang et al. (2025).
 
 Rather than reproducing the paper exactly, this repository recreates many of the underlying computational ideas using an educational implementation designed to build reusable scientific programming skills.
 
