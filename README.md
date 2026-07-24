@@ -29,7 +29,7 @@ The goals of this project are to:
 # Repository Structure
 
 ```text
-nanoparticle-diffusion-104337/
+nanoparticle-diffusion/
 
 ├── notebooks/
 │   ├── 01_project_setup.ipynb
@@ -91,13 +91,13 @@ This project simulates Brownian motion, measures the mean squared displacement (
 Clone the repository.
 
 ```bash
-git clone https://github.com/<username>/nanoparticle-diffusion-104337.git
+git clone https://github.com/<username>/nanoparticle-diffusion.git
 ```
 
 Move into the project directory.
 
 ```bash
-cd nanoparticle-diffusion-104337
+cd nanoparticle-diffusion
 ```
 
 Create the Conda environment.
