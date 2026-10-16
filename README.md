@@ -77,9 +77,9 @@ $$
 where:
 
 * (D) = diffusion coefficient
-* (k_B) = Boltzmann constant
+* (k<sub>B</sub>) = Boltzmann constant
 * (T) = temperature
-* (\eta) = fluid viscosity
+* (η) = fluid viscosity
 * (r) = particle radius
 
 This project simulates Brownian motion, measures the mean squared displacement (MSD), estimates the diffusion coefficient from simulated trajectories, and compares those estimates with theoretical predictions.
